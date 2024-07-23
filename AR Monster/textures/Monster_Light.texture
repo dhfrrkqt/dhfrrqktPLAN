@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Monster_Light",
+  "identifier": "texture:5511-ee34ba77-fd35-4121-99c4-ddd16c8b6ccb",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "892b726ef254bf3c22e9dc1bd66205a3",
+  "assetLocator": "textures/Monster_Light.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "892b726ef254bf3c22e9dc1bd66205a3",
+      "colorCount": 250850,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 16.607901120081316,
+      "pixelsHigh": 1024,
+      "pixelsWide": 1024
+    }
+  ]
+}
